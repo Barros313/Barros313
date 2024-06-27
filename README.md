@@ -1,5 +1,13 @@
-# Teste
+# 👤 About me
 
+Hello, my name is Gabriel Barros, I'm a software developer. Currently I study System Development and Analysis at Faculdade Senac PE.
+
+My higher education course is proportionate by the program Embarque Digital. Embarque Digital is an invest from the Prefeitura do Recife (Recife City Hall) in partnership with Porto Digital
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Barros313&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Barros313&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=jupyter%20notebook)
 
 
 <!--
